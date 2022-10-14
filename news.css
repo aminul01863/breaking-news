@@ -1,0 +1,17 @@
+.news-btn:hover {
+    color: rgb(60, 39, 252);
+    background-color: rgb(226, 226, 252);
+}
+
+#news-letter.img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100px;
+}
+
+.news-btn {
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
